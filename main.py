@@ -5,11 +5,11 @@ import datetime
 import os 
 import time  
 # insert your Telegram bot token here
-bot = telebot.TeleBot('6664667063:AAHR2ai2Uu5nRSWKpxQQxUJsXMGVdA2pqN0')   
+bot = telebot.TeleBot('7148688561:AAGcAsXdWXDyivTyMfM8qPIDLEExqarLr2I')   
     
 # Admin user IDs
-admin_id = ["1909392304","1247301573"] 
-allowed_group_ids = ['-1002090402811']
+admin_id = ["6444433021", "5780798291", "6872398672"] 
+allowed_group_ids = ['-1002075476247']
 # File to store allowed user IDs
 USER_FILE = "users.txt" 
               
@@ -208,13 +208,13 @@ COOLDOWN_TIME =0
 @bot.message_handler(commands=['bgmi'])
 def handle_bgmi(message):
     # Specific Telegram group ID
-    correct_group_id = -1002090402811  # Replace with your actual group ID
+    correct_group_id = -1002075476247  # Replace with your actual group ID
 
     # Check if the message is coming from the correct group
     if message.chat.type in ["group", "supergroup"]:
         if message.chat.id != correct_group_id:
-            group_link = "https://t.me/+3Oc1_zkSAjkwZjNl"  # Modify this with your actual group link
-            response = f"Please use this command in our dedicated Telegram group: {group_link}\n Dev: @crackddos"
+            group_link = "https://t.me/ravanddos"  # Modify this with your actual group link
+            response = f"Please use this command in our dedicated Telegram group: {group_link}\n Dev: @soulravan"
             bot.reply_to(message, response)
             return
 
@@ -222,7 +222,7 @@ def handle_bgmi(message):
 
         # Checking if user is allowed based on user_id
         if not is_access_allowed(user_id):
-            response = "❌ You Are Not Authorized To Use This Command ❌. Please Contact @crackddos To Get Access.\n Dev: @crackddos"
+            response = "❌ You Are Not Authorized To Use This Command ❌. Please Contact @soulravan To Get Access.\n Dev: @soulravan"
             bot.reply_to(message, response)
             return
 
@@ -282,8 +282,8 @@ def show_help(message):
 🚀 /mylogs : To Check Your Recents Attacks.
 🚀 /plan : Checkout Our Botnet Rates.
 
-🚀 Buy From :- @crackddos
-🚀 Official Channel :- @titanddosofficial
+🚀 Buy From :- @soulravan
+🚀 Official Channel :- @ravanddos
 '''
     for handler in bot.message_handlers:
         if hasattr(handler, 'commands'):
@@ -298,9 +298,9 @@ def show_help(message):
 @bot.message_handler(commands=['start'])
 def welcome_start(message):
     user_name = message.from_user.first_name
-    response = f'''👋🏻Welcome to The Bot, Titan 💖
+    response = f'''👋🏻Welcome to The Bot, Ravan 💖
                     🤖Feel Free to Explore. 
-                    ✅Join :- t.me/titanddosofficial'''
+                    ✅Join :- t.me/ravanddos'''
     bot.reply_to(message, response)
 
 @bot.message_handler(commands=['rules'])
@@ -319,15 +319,13 @@ def welcome_plan(message):
 
 𝗕𝗚𝗠𝗜 𝗗𝗗𝗢𝗦 🚀 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 ✅
 
-𝘽𝙂𝙈𝙄 𝘿𝘿𝙊𝙎 🚀 𝙃𝘼𝘾𝙆 𝙋𝙇𝘼𝙉𝙎 !!! 
-𝟭 𝗛𝗢𝗨𝗥 :- 𝟯𝟵₹
-𝟭 𝗗𝗔𝗬 :- 𝟭𝟰𝟵₹
-𝟮 𝗗𝗔𝗬 :- 𝟮𝟰𝟵₹
-𝟯 𝗗𝗔𝗬 :- 𝟯𝟰𝟵₹
-𝟳 𝗗𝗔𝗬 :- 𝟰𝟵𝟵₹
+𝘽𝙂𝙈𝙄 𝘿𝘿𝙊𝙎 🚀 𝙃𝘼𝘾𝙆 𝙋𝙇𝘼𝙉𝙎 !!!
+𝟭 𝗗𝗔𝗬 :- 200₹
+𝟮 𝗗𝗔𝗬 :- 300₹
+𝟯 𝗗𝗔𝗬 :- 500₹
+𝟳 𝗗𝗔𝗬 :- 1k₹
 
-𝐃𝐌 :- @crackddos
-𝐃𝐌 :- @AviGamingOp
+𝐃𝐌 :- @soulravan
 '''
     bot.reply_to(message, response)
 

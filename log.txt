@@ -1,0 +1,871 @@
+UserID: 6872398672 | Time: 2024-05-20 12:17:11.495753 | Command: /bgmi | Target: 52.140.45.120 | Port: 29966 | Time: 240
+Username: @DEVELOPER_xyz
+Target: 52.140.45.120
+Port: 29966
+Time: 240
+
+UserID: 6872398672 | Time: 2024-05-20 12:26:01.578219 | Command: /bgmi | Target: 52.140.1.158 | Port: 18447 | Time: 240
+UserID: 6872398672 | Time: 2024-05-20 12:26:19.973879 | Command: /bgmi | Target: 52.140.1.158 | Port: 18447 | Time: 240
+Username: @DEVELOPER_xyz
+Target: 52.140.1.158
+Port: 18447
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 12:34:46.457011 | Command: /bgmi | Target: 52.172.12.33 | Port: 10209 | Time: 240
+Username: @VISION_002
+Target: 52.172.12.33
+Port: 10209
+Time: 240
+
+UserID: 6872398672 | Time: 2024-05-20 13:15:11.190923 | Command: /bgmi | Target: 20.204.190.0 | Port: 10235 | Time: 240
+Username: @DEVELOPER_xyz
+Target: 20.204.190.0
+Port: 10235
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 13:23:36.765150 | Command: /bgmi | Target: 20.204.16.24 | Port: 24193 | Time: 240
+Username: @VISION_002
+Target: 20.204.16.24
+Port: 24193
+Time: 240
+
+UserID: 6872398672 | Time: 2024-05-20 13:33:38.185482 | Command: /bgmi | Target: 20.235.54.53 | Port: 14805 | Time: 240
+Username: @DEVELOPER_xyz
+Target: 20.235.54.53
+Port: 14805
+Time: 240
+
+UserID: 6444433021 | Time: 2024-05-20 13:43:37.542233 | Command: /bgmi | Target: 20.235.54.53 | Port: 14805 | Time: 240
+Username: @SouLRavan
+Target: 20.235.54.53
+Port: 14805
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 14:12:04.010226 | Command: /bgmi | Target: 4.213.65.132 | Port: 19953 | Time: 240
+Username: @VISION_002
+Target: 4.213.65.132
+Port: 19953
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 14:46:02.306926 | Command: /bgmi | Target: 20.198.79.110 | Port: 10561 | Time: 240
+Username: @VISION_002
+Target: 20.198.79.110
+Port: 10561
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 15:15:25.192674 | Command: /bgmi | Target: 20.204.176.194 | Port: 22804 | Time: 240
+Username: @VISION_002
+Target: 20.204.176.194
+Port: 22804
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-20 15:22:33.545423 | Command: /bgmi | Target: 20.204.39.245 | Port: 16998 | Time: 240
+Username: @bhoria_king
+Target: 20.204.39.245
+Port: 16998
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-20 15:29:11.595233 | Command: /bgmi | Target: 20.198.106.109 | Port: 14099 | Time: 240
+Username: UserID: 6839609849
+Target: 20.198.106.109
+Port: 14099
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-20 15:40:08.303786 | Command: /bgmi | Target: 20.204.191.71 | Port: 10354 | Time: 240
+Username: UserID: 6839609849
+Target: 20.204.191.71
+Port: 10354
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-20 15:48:06.303045 | Command: /bgmi | Target: 20.204.17.82 | Port: 15048 | Time: 240
+Username: UserID: 6839609849
+Target: 20.204.17.82
+Port: 15048
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 15:54:00.021520 | Command: /bgmi | Target: 20.219.107.207 | Port: 10173 | Time: 240
+Username: @VISION_002
+Target: 20.219.107.207
+Port: 10173
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-20 15:58:43.230161 | Command: /bgmi | Target: 20.204.88.74 | Port: 13833 | Time: 240
+Username: UserID: 6839609849
+Target: 20.204.88.74
+Port: 13833
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 16:07:36.480542 | Command: /bgmi | Target: 20.235.19.177 | Port: 12209 | Time: 240
+UserID: 5780798291 | Time: 2024-05-20 16:20:42.818405 | Command: /bgmi | Target: 20.204.88.100 | Port: 25422 | Time: 240
+Username: @VISION_002
+Target: 20.204.88.100
+Port: 25422
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-20 16:35:31.106456 | Command: /bgmi | Target: 20.198.74.11 | Port: 12315 | Time: 240
+Username: UserID: 6839609849
+Target: 20.198.74.11
+Port: 12315
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 16:51:41.926237 | Command: /bgmi | Target: 20.198.111.86 | Port: 10404 | Time: 240
+UserID: 6839609849 | Time: 2024-05-20 16:51:41.926072 | Command: /bgmi | Target: 20.198.111.86 | Port: 10404 | Time: 240
+Username: UserID: 6839609849
+Target: 20.198.111.86
+Port: 10404
+Time: 240
+
+Username: @VISION_002
+Target: 20.198.111.86
+Port: 10404
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-20 16:58:03.118880 | Command: /bgmi | Target: 20.219.160.205 | Port: 21047 | Time: 240
+UserID: 5780798291 | Time: 2024-05-20 16:58:43.616015 | Command: /bgmi | Target: 20.219.160.205 | Port: 21047 | Time: 240
+Username: @VISION_002
+Target: 20.219.160.205
+Port: 21047
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-20 17:02:25.752394 | Command: /bgmi | Target: 20.204.19.72 | Port: 10909 | Time: 240
+Username: UserID: 6839609849
+Target: 20.204.19.72
+Port: 10909
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 17:16:36.622951 | Command: /bgmi | Target: 20.204.190.221 | Port: 10351 | Time: 240
+Username: @VISION_002
+Target: 20.204.190.221
+Port: 10351
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-20 17:26:21.464393 | Command: /bgmi | Target: 20.219.164.214 | Port: 22568 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.219.164.214
+Port: 22568
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-20 17:33:17.600084 | Command: /bgmi | Target: 20.219.76.230 | Port: 24420 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.219.76.230
+Port: 24420
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-20 17:39:27.646002 | Command: /bgmi | Target: 20.235.146.193 | Port: 11217 | Time: 240
+UserID: 5780798291 | Time: 2024-05-20 17:39:47.256915 | Command: /bgmi | Target: 20.235.146.193 | Port: 11217 | Time: 240
+Username: @VISION_002
+Target: 20.235.146.193
+Port: 11217
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 17:46:10.929802 | Command: /bgmi | Target: 20.204.191.150 | Port: 10338 | Time: 240
+Username: @VISION_002
+Target: 20.204.191.150
+Port: 10338
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-20 17:47:23.950592 | Command: /bgmi | Target: 20.235.50.135 | Port: 16144 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.235.50.135
+Port: 16144
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-20 17:52:44.889868 | Command: /bgmi | Target: 20.235.18.229 | Port: 28518 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.235.18.229
+Port: 28518
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-20 18:00:29.436431 | Command: /bgmi | Target: 20.198.79.130 | Port: 23755 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.198.79.130
+Port: 23755
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-20 18:07:13.872348 | Command: /bgmi | Target: 20.235.93.249 | Port: 11605 | Time: 240
+Username: @VISION_002
+Target: 20.235.93.249
+Port: 11605
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-21 05:07:03.268714 | Command: /bgmi | Target: 20.219.163.210 | Port: 12692 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.219.163.210
+Port: 12692
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 05:36:42.973808 | Command: /bgmi | Target: 20.219.167.158 | Port: 16411 | Time: 180
+Username: @VISION_002
+Target: 20.219.167.158
+Port: 16411
+Time: 180
+
+UserID: 6839609849 | Time: 2024-05-21 06:16:07.650041 | Command: /bgmi | Target: 4.213.65.144 | Port: 17045 | Time: 240
+Username: UserID: 6839609849
+Target: 4.213.65.144
+Port: 17045
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 06:22:59.584469 | Command: /bgmi | Target: 20.219.21.140 | Port: 15630 | Time: 240
+Username: @VISION_002
+Target: 20.219.21.140
+Port: 15630
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 06:24:00.873109 | Command: /bgmi | Target: 20.219.21.162 | Port: 26609 | Time: 240
+Username: UserID: 6839609849
+Target: 20.219.21.162
+Port: 26609
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 06:39:06.687394 | Command: /bgmi | Target: 4.213.65.188 | Port: 11717 | Time: 240
+Username: @bhoria_king
+Target: 4.213.65.188
+Port: 11717
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 06:40:32.337156 | Command: /bgmi | Target: 4.213.65.188 | Port: 11717 | Time: 240
+Username: @bhoria_king
+Target: 4.213.65.188
+Port: 11717
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 06:48:50.413915 | Command: /bgmi | Target: 20.219.165.135 | Port: 13882 | Time: 240
+Username: @VISION_002
+Target: 20.219.165.135
+Port: 13882
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 06:55:13.129256 | Command: /bgmi | Target: 20.204.16.70 | Port: 10719 | Time: 240
+Username: @bhoria_king
+Target: 20.204.16.70
+Port: 10719
+Time: 240
+
+UserID: 6872398672 | Time: 2024-05-21 07:01:31.050944 | Command: /bgmi | Target: 20.235.147.49 | Port: 12559 | Time: 180
+Username: @DEVELOPER_xyz
+Target: 20.235.147.49
+Port: 12559
+Time: 180
+
+UserID: 6053080417 | Time: 2024-05-21 07:08:32.819039 | Command: /bgmi | Target: 20.235.88.156 | Port: 18844 | Time: 240
+Username: @bhoria_king
+Target: 20.235.88.156
+Port: 18844
+Time: 240
+
+UserID: 6872398672 | Time: 2024-05-21 07:17:05.979222 | Command: /bgmi | Target: 20.235.146.46 | Port: 17272 | Time: 240
+Username: @DEVELOPER_xyz
+Target: 20.235.146.46
+Port: 17272
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 07:24:47.310486 | Command: /bgmi | Target: 20.219.163.132 | Port: 14744 | Time: 240
+UserID: 6053080417 | Time: 2024-05-21 07:25:18.590103 | Command: /bgmi | Target: 20.219.163.132 | Port: 14744 | Time: 240
+Username: @bhoria_king
+Target: 20.219.163.132
+Port: 14744
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-21 07:29:31.645496 | Command: /bgmi | Target: 20.212.22.90 | Port: 17500 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.212.22.90
+Port: 17500
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 07:38:05.232360 | Command: /bgmi | Target: 20.198.77.70 | Port: 27663 | Time: 240
+Username: @bhoria_king
+Target: 20.198.77.70
+Port: 27663
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 07:43:47.016345 | Command: /bgmi | Target: 52.172.102.48 | Port: 24223 | Time: 240
+Username: @VISION_002
+Target: 52.172.102.48
+Port: 24223
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 07:56:15.758946 | Command: /bgmi | Target: 4.247.17.165 | Port: 15125 | Time: 240
+Username: @VISION_002
+Target: 4.247.17.165
+Port: 15125
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 08:06:29.895355 | Command: /bgmi | Target: 20.235.93.196 | Port: 25482 | Time: 240
+Username: @bhoria_king
+Target: 20.235.93.196
+Port: 25482
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 08:14:33.270868 | Command: /bgmi | Target: 20.198.74.232 | Port: 22445 | Time: 240
+UserID: 5780798291 | Time: 2024-05-21 08:14:40.150260 | Command: /bgmi | Target: 20.198.74.232 | Port: 22445 | Time: 240
+Username: @VISION_002
+Target: 20.198.74.232
+Port: 22445
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 08:21:51.059431 | Command: /bgmi | Target: 20.235.151.251 | Port: 29207 | Time: 240
+Username: @bhoria_king
+Target: 20.235.151.251
+Port: 29207
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 08:27:49.962996 | Command: /bgmi | Target: 20.204.108.117 | Port: 24707 | Time: 240
+Username: @VISION_002
+Target: 20.204.108.117
+Port: 24707
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 08:28:07.204819 | Command: /bgmi | Target: 20.204.88.72 | Port: 25966 | Time: 240
+Username: @bhoria_king
+Target: 20.204.88.72
+Port: 25966
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 08:51:57.746331 | Command: /bgmi | Target: 20.235.93.186 | Port: 18025 | Time: 240
+Username: @VISION_002
+Target: 20.235.93.186
+Port: 18025
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 09:00:22.296579 | Command: /bgmi | Target: 4.213.64.4 | Port: 13672 | Time: 240
+Username: @VISION_002
+Target: 4.213.64.4
+Port: 13672
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 10:17:33.192493 | Command: /bgmi | Target: 52.140.3.93 | Port: 21329 | Time: 240
+Username: @bhoria_king
+Target: 52.140.3.93
+Port: 21329
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 10:24:32.440258 | Command: /bgmi | Target: 20.204.180.33 | Port: 23958 | Time: 240
+Username: @bhoria_king
+Target: 20.204.180.33
+Port: 23958
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 10:25:30.152620 | Command: /bgmi | Target: 20.204.180.33 | Port: 29358 | Time: 240
+Username: @bhoria_king
+Target: 20.204.180.33
+Port: 29358
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 10:42:16.080221 | Command: /bgmi | Target: 20.204.181.125 | Port: 29129 | Time: 240
+Username: @VISION_002
+Target: 20.204.181.125
+Port: 29129
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 10:45:15.533081 | Command: /bgmi | Target: 20.204.181.125 | Port: 29129 | Time: 240
+UserID: 5780798291 | Time: 2024-05-21 10:45:45.605349 | Command: /bgmi | Target: 20.204.181.125 | Port: 29129 | Time: 240
+Username: @VISION_002
+Target: 20.204.181.125
+Port: 29129
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 10:52:58.013749 | Command: /bgmi | Target: 20.198.110.192 | Port: 23200 | Time: 240
+Username: @bhoria_king
+Target: 20.198.110.192
+Port: 23200
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 11:22:08.449003 | Command: /bgmi | Target: 20.235.147.49 | Port: 12595 | Time: 240
+Username: @bhoria_king
+Target: 20.235.147.49
+Port: 12595
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 11:42:33.402438 | Command: /bgmi | Target: 20.235.147.49 | Port: 12595 | Time: 240
+Username: @bhoria_king
+Target: 20.235.147.49
+Port: 12595
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 11:54:04.304675 | Command: /bgmi | Target: 20.204.17.98 | Port: 28759 | Time: 240
+Username: @bhoria_king
+Target: 20.204.17.98
+Port: 28759
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 12:15:08.924031 | Command: /bgmi | Target: 20.235.95.34 | Port: 22904 | Time: 240
+Username: UserID: 6839609849
+Target: 20.235.95.34
+Port: 22904
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 12:32:48.839424 | Command: /bgmi | Target: 20.235.20.95 | Port: 22800 | Time: 240
+Username: UserID: 6839609849
+Target: 20.235.20.95
+Port: 22800
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 12:32:50.341073 | Command: /bgmi | Target: 20.235.93.109 | Port: 21528 | Time: 240
+Username: @bhoria_king
+Target: 20.235.93.109
+Port: 21528
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 12:38:38.607148 | Command: /bgmi | Target: 20.204.18.125 | Port: 10693 | Time: 240
+Username: @VISION_002
+Target: 20.204.18.125
+Port: 10693
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 12:46:32.199913 | Command: /bgmi | Target: 20.235.90.227 | Port: 17470 | Time: 240
+Username: @bhoria_king
+Target: 20.235.90.227
+Port: 17470
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 12:49:54.255479 | Command: /bgmi | Target: 20.198.72.188 | Port: 17532 | Time: 120
+Username: @VISION_002
+Target: 20.198.72.188
+Port: 17532
+Time: 120
+
+UserID: 5780798291 | Time: 2024-05-21 13:01:11.839354 | Command: /bgmi | Target: 4.213.64.211 | Port: 20856 | Time: 240
+Username: @VISION_002
+Target: 4.213.64.211
+Port: 20856
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 13:13:19.483123 | Command: /bgmi | Target: 20.235.13.172 | Port: 26813 | Time: 240
+Username: @bhoria_king
+Target: 20.235.13.172
+Port: 26813
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-21 13:58:18.840738 | Command: /bgmi | Target: 4.213.64.156 | Port: 10439 | Time: 240
+Username: @PROFESSOR_IND
+Target: 4.213.64.156
+Port: 10439
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-21 14:01:42.958876 | Command: /bgmi | Target: 20.198.75.180 | Port: 20538 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.198.75.180
+Port: 20538
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 16:26:28.313423 | Command: /bgmi | Target: 20.204.39.56 | Port: 12675 | Time: 240
+Username: UserID: 6839609849
+Target: 20.204.39.56
+Port: 12675
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 16:42:19.216992 | Command: /bgmi | Target: 20.204.191.48 | Port: 10368 | Time: 240
+Username: UserID: 6839609849
+Target: 20.204.191.48
+Port: 10368
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-21 16:51:10.562857 | Command: /bgmi | Target: 52.140.45.136 | Port: 27685 | Time: 240
+UserID: 5780798291 | Time: 2024-05-21 16:56:05.751450 | Command: /bgmi | Target: 20.198.78.30 | Port: 29995 | Time: 240
+Username: @VISION_002
+Target: 20.198.78.30
+Port: 29995
+Time: 240
+
+UserID: 6685685525 | Time: 2024-05-21 16:58:40.499809 | Command: /bgmi | Target: 20.204.16.48 | Port: 22837 | Time: 240
+Username: @PROFESSOR_IND
+Target: 20.204.16.48
+Port: 22837
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 17:06:14.003980 | Command: /bgmi | Target: 20.198.104.241 | Port: 23902 | Time: 240
+Username: UserID: 6839609849
+Target: 20.198.104.241
+Port: 23902
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 17:15:23.783918 | Command: /bgmi | Target: 20.204.179.71 | Port: 28910 | Time: 240
+Username: @bhoria_king
+Target: 20.204.179.71
+Port: 28910
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 17:32:43.976562 | Command: /bgmi | Target: 20.235.148.44 | Port: 25458 | Time: 240
+UserID: 6053080417 | Time: 2024-05-21 17:33:32.122232 | Command: /bgmi | Target: 20.235.17.115 | Port: 10014 | Time: 120
+Username: @bhoria_king
+Target: 20.235.17.115
+Port: 10014
+Time: 120
+
+UserID: 6053080417 | Time: 2024-05-21 17:37:36.841829 | Command: /bgmi | Target: 20.235.17.115 | Port: 10014 | Time: 120
+Username: @bhoria_king
+Target: 20.235.17.115
+Port: 10014
+Time: 120
+
+UserID: 5780798291 | Time: 2024-05-21 17:56:10.455261 | Command: /bgmi | Target: 20.198.104.235 | Port: 12562 | Time: 240
+Username: @VISION_002
+Target: 20.198.104.235
+Port: 12562
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 18:03:59.252845 | Command: /bgmi | Target: 4.213.64.183 | Port: 24384 | Time: 240
+Username: @bhoria_king
+Target: 4.213.64.183
+Port: 24384
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 18:16:12.810724 | Command: /bgmi | Target: 20.40.43.63 | Port: 10783 | Time: 240
+Username: @VISION_002
+Target: 20.40.43.63
+Port: 10783
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 18:24:10.063167 | Command: /bgmi | Target: 20.204.182.9 | Port: 12197 | Time: 240
+Username: @bhoria_king
+Target: 20.204.182.9
+Port: 12197
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-21 18:30:55.865985 | Command: /bgmi | Target: 20.204.39.127 | Port: 19720 | Time: 240
+Username: @VISION_002
+Target: 20.204.39.127
+Port: 19720
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 18:31:01.901906 | Command: /bgmi | Target: 20.198.77.126 | Port: 29845 | Time: 240
+Username: @bhoria_king
+Target: 20.198.77.126
+Port: 29845
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 18:34:57.348059 | Command: /bgmi | Target: 20.198.77.126 | Port: 29845 | Time: 240
+Username: @bhoria_king
+Target: 20.198.77.126
+Port: 29845
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 18:41:25.464390 | Command: /bgmi | Target: 20.198.77.126 | Port: 12345 | Time: 240
+Username: @bhoria_king
+Target: 20.198.77.126
+Port: 12345
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 18:51:09.313895 | Command: /bgmi | Target: 20.198.77.126 | Port: 29485 | Time: 240
+Username: @bhoria_king
+Target: 20.198.77.126
+Port: 29485
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-21 18:56:39.091199 | Command: /bgmi | Target: 20.235.88.156 | Port: 18922 | Time: 240
+Username: UserID: 6839609849
+Target: 20.235.88.156
+Port: 18922
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 19:19:23.721977 | Command: /bgmi | Target: 20.204.18.24 | Port: 14443 | Time: 240
+Username: @bhoria_king
+Target: 20.204.18.24
+Port: 14443
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-21 19:24:35.954007 | Command: /bgmi | Target: 20.204.17.86 | Port: 21768 | Time: 240
+Username: @bhoria_king
+Target: 20.204.17.86
+Port: 21768
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 04:16:50.013000 | Command: /bgmi | Target: 4.213.65.122 | Port: 28862 | Time: 240
+Username: @VISION_002
+Target: 4.213.65.122
+Port: 28862
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 04:43:02.294514 | Command: /bgmi | Target: 20.204.17.0 | Port: 10961 | Time: 240
+Username: @VISION_002
+Target: 20.204.17.0
+Port: 10961
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 05:43:43.523204 | Command: /bgmi | Target: 4.213.64.184 | Port: 23374 | Time: 240
+Username: @bhoria_king
+Target: 4.213.64.184
+Port: 23374
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 05:45:36.410254 | Command: /bgmi | Target: 4.213.64.184 | Port: 23374 | Time: 240
+UserID: 5780798291 | Time: 2024-05-22 05:46:06.482024 | Command: /bgmi | Target: 4.213.64.184 | Port: 23374 | Time: 240
+Username: @VISION_002
+Target: 4.213.64.184
+Port: 23374
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 05:46:07.576762 | Command: /bgmi | Target: 4.213.64.184 | Port: 23374 | Time: 240
+Username: @VISION_002
+Target: 4.213.64.184
+Port: 23374
+Time: 240
+
+UserID: 6872398672 | Time: 2024-05-22 05:57:02.627989 | Command: /bgmi | Target: 20.198.110.161 | Port: 13240 | Time: 240
+Username: @DEVELOPER_xyz
+Target: 20.198.110.161
+Port: 13240
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 06:06:05.168672 | Command: /bgmi | Target: 52.140.3.93 | Port: 21326 | Time: 180
+Username: @VISION_002
+Target: 52.140.3.93
+Port: 21326
+Time: 180
+
+UserID: 5780798291 | Time: 2024-05-22 06:56:48.128401 | Command: /bgmi | Target: 20.198.101.129 | Port: 11708 | Time: 240
+Username: @VISION_002
+Target: 20.198.101.129
+Port: 11708
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 07:03:58.700587 | Command: /bgmi | Target: 52.172.26.129 | Port: 17411 | Time: 240
+Username: @bhoria_king
+Target: 52.172.26.129
+Port: 17411
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 07:11:22.048040 | Command: /bgmi | Target: 4.213.68.218 | Port: 18366 | Time: 240
+Username: @VISION_002
+Target: 4.213.68.218
+Port: 18366
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-22 08:09:55.762770 | Command: /bgmi | Target: 4.213.65.190 | Port: 17792 | Time: 240
+Username: UserID: 6839609849
+Target: 4.213.65.190
+Port: 17792
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-22 08:09:57.525162 | Command: /bgmi | Target: 4.213.65.190 | Port: 17792 | Time: 240
+UserID: 6839609849 | Time: 2024-05-22 08:17:59.454121 | Command: /bgmi | Target: 20.235.93.249 | Port: 11544 | Time: 240
+Username: UserID: 6839609849
+Target: 20.235.93.249
+Port: 11544
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 08:53:19.121155 | Command: /bgmi | Target: 52.140.37.168 | Port: 23944 | Time: 180
+Username: @VISION_002
+Target: 52.140.37.168
+Port: 23944
+Time: 180
+
+UserID: 6839609849 | Time: 2024-05-22 09:03:19.530646 | Command: /bgmi | Target: 20.235.53.124 | Port: 26744 | Time: 240
+Username: UserID: 6839609849
+Target: 20.235.53.124
+Port: 26744
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 09:12:14.791019 | Command: /bgmi | Target: 20.198.100.217 | Port: 23518 | Time: 180
+Username: @VISION_002
+Target: 20.198.100.217
+Port: 23518
+Time: 180
+
+UserID: 5780798291 | Time: 2024-05-22 09:45:48.181294 | Command: /bgmi | Target: 20.235.48.179 | Port: 19198 | Time: 180
+UserID: 5780798291 | Time: 2024-05-22 09:45:48.181163 | Command: /bgmi | Target: 20.235.48.179 | Port: 19198 | Time: 180
+Username: @VISION_002
+Target: 20.235.48.179
+Port: 19198
+Time: 180
+
+Username: @VISION_002
+Target: 20.235.48.179
+Port: 19198
+Time: 180
+
+UserID: 5780798291 | Time: 2024-05-22 09:52:41.359876 | Command: /bgmi | Target: 20.235.54.58 | Port: 24429 | Time: 180
+Username: @VISION_002
+Target: 20.235.54.58
+Port: 24429
+Time: 180
+
+UserID: 6053080417 | Time: 2024-05-22 10:05:27.513359 | Command: /bgmi | Target: 20.204.18.80 | Port: 10672 | Time: 240
+Username: @bhoria_king
+Target: 20.204.18.80
+Port: 10672
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 10:15:54.632857 | Command: /bgmi | Target: 20.204.18.23 | Port: 10299 | Time: 240
+Username: @bhoria_king
+Target: 20.204.18.23
+Port: 10299
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 10:21:23.002372 | Command: /bgmi | Target: 20.204.18.23 | Port: 10299 | Time: 240
+Username: @bhoria_king
+Target: 20.204.18.23
+Port: 10299
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 10:36:40.618336 | Command: /bgmi | Target: 20.198.111.212 | Port: 21728 | Time: 240
+Username: @bhoria_king
+Target: 20.198.111.212
+Port: 21728
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 10:44:32.825584 | Command: /bgmi | Target: 20.204.88.247 | Port: 24005 | Time: 240
+Username: @bhoria_king
+Target: 20.204.88.247
+Port: 24005
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 10:46:41.096490 | Command: /bgmi | Target: 20.204.88.247 | Port: 24005 | Time: 240
+Username: @bhoria_king
+Target: 20.204.88.247
+Port: 24005
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 10:55:23.689352 | Command: /bgmi | Target: 20.198.106.109 | Port: 14251 | Time: 240
+Username: @bhoria_king
+Target: 20.198.106.109
+Port: 14251
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 11:03:05.307130 | Command: /bgmi | Target: 20.219.165.135 | Port: 13825 | Time: 240
+Username: @bhoria_king
+Target: 20.219.165.135
+Port: 13825
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 11:34:49.231169 | Command: /bgmi | Target: 20.204.148.64 | Port: 21007 | Time: 240
+Username: @bhoria_king
+Target: 20.204.148.64
+Port: 21007
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 11:51:49.850428 | Command: /bgmi | Target: 20.235.53.124 | Port: 26740 | Time: 180
+Username: @VISION_002
+Target: 20.235.53.124
+Port: 26740
+Time: 180
+
+UserID: 6053080417 | Time: 2024-05-22 12:06:11.866545 | Command: /bgmi | Target: 20.198.76.208 | Port: 28732 | Time: 240
+Username: @bhoria_king
+Target: 20.198.76.208
+Port: 28732
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 12:14:17.930238 | Command: /bgmi | Target: 20.198.72.155 | Port: 16444 | Time: 240
+Username: @bhoria_king
+Target: 20.198.72.155
+Port: 16444
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 12:20:16.624854 | Command: /bgmi | Target: 20.235.14.83 | Port: 28136 | Time: 240
+Username: @VISION_002
+Target: 20.235.14.83
+Port: 28136
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 12:28:28.547649 | Command: /bgmi | Target: 20.204.191.218 | Port: 10044 | Time: 240
+Username: @bhoria_king
+Target: 20.204.191.218
+Port: 10044
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 12:44:11.119487 | Command: /bgmi | Target: 20.219.79.122 | Port: 21106 | Time: 180
+UserID: 5780798291 | Time: 2024-05-22 12:44:19.853445 | Command: /bgmi | Target: 20.219.79.122 | Port: 21106 | Time: 180
+Username: @VISION_002
+Target: 20.219.79.122
+Port: 21106
+Time: 180
+
+UserID: 6053080417 | Time: 2024-05-22 12:50:29.168508 | Command: /bgmi | Target: 20.198.110.239 | Port: 11195 | Time: 240
+Username: @bhoria_king
+Target: 20.198.110.239
+Port: 11195
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 12:52:43.472603 | Command: /bgmi | Target: 20.204.188.209 | Port: 10378 | Time: 240
+Username: @bhoria_king
+Target: 20.204.188.209
+Port: 10378
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 13:04:26.419062 | Command: /bgmi | Target: 4.247.16.133 | Port: 14157 | Time: 240
+UserID: 6053080417 | Time: 2024-05-22 13:05:02.203405 | Command: /bgmi | Target: 4.247.16.133 | Port: 14157 | Time: 240
+Username: @bhoria_king
+Target: 4.247.16.133
+Port: 14157
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 13:08:59.612077 | Command: /bgmi | Target: 20.235.88.123 | Port: 15329 | Time: 240
+Username: @bhoria_king
+Target: 20.235.88.123
+Port: 15329
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-22 13:24:03.992591 | Command: /bgmi | Target: 20.235.90.227 | Port: 17426 | Time: 240
+Username: UserID: 6839609849
+Target: 20.235.90.227
+Port: 17426
+Time: 240
+
+UserID: 6839609849 | Time: 2024-05-22 13:29:38.539487 | Command: /bgmi | Target: 20.204.53.122 | Port: 16140 | Time: 240
+Username: UserID: 6839609849
+Target: 20.204.53.122
+Port: 16140
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 13:33:45.728232 | Command: /bgmi | Target: 20.235.88.123 | Port: 15329 | Time: 120
+Username: @bhoria_king
+Target: 20.235.88.123
+Port: 15329
+Time: 120
+
+UserID: 6053080417 | Time: 2024-05-22 13:57:35.537048 | Command: /bgmi | Target: 20.204.19.72 | Port: 11197 | Time: 240
+Username: @bhoria_king
+Target: 20.204.19.72
+Port: 11197
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 14:12:12.031120 | Command: /bgmi | Target: 4.247.21.77 | Port: 25957 | Time: 180
+Username: @VISION_002
+Target: 4.247.21.77
+Port: 25957
+Time: 180
+
+UserID: 6839609849 | Time: 2024-05-22 16:49:27.190663 | Command: /bgmi | Target: 4.213.64.182 | Port: 15799 | Time: 240
+Username: UserID: 6839609849
+Target: 4.213.64.182
+Port: 15799
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 17:17:43.238009 | Command: /bgmi | Target: 20.204.191.192 | Port: 10096 | Time: 180
+Username: @VISION_002
+Target: 20.204.191.192
+Port: 10096
+Time: 180
+
+UserID: 6053080417 | Time: 2024-05-22 17:21:28.946706 | Command: /bgmi | Target: 20.219.76.230 | Port: 24439 | Time: 240
+Username: @bhoria_king
+Target: 20.219.76.230
+Port: 24439
+Time: 240
+
+UserID: 6053080417 | Time: 2024-05-22 17:23:56.310733 | Command: /bgmi | Target: 20.235.148.220 | Port: 20838 | Time: 240
+Username: @bhoria_king
+Target: 20.235.148.220
+Port: 20838
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 17:31:37.734293 | Command: /bgmi | Target: 20.235.53.114 | Port: 12620 | Time: 240
+Username: @VISION_002
+Target: 20.235.53.114
+Port: 12620
+Time: 240
+
+UserID: 5780798291 | Time: 2024-05-22 17:38:30.751840 | Command: /bgmi | Target: 52.172.103.120 | Port: 19482 | Time: 180
+Username: @VISION_002
+Target: 52.172.103.120
+Port: 19482
+Time: 180
+
+UserID: 6053080417 | Time: 2024-05-22 17:49:40.313740 | Command: /bgmi | Target: 20.198.72.155 | Port: 16313 | Time: 240
+Username: @bhoria_king
+Target: 20.198.72.155
+Port: 16313
+Time: 240
+
